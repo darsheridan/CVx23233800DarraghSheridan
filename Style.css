@@ -1,0 +1,97 @@
+body{
+	background-color:#FFFFF0;
+	text-align: center;
+	color: black;
+}
+Container{
+			display:flex;
+			justify-content: space-between;
+			padding:50px;
+			padding-left: 10%;
+			padding-right: 10%;
+			margin: 5px;	
+			}
+.container-1 {
+		margin-top: 200px;
+		min-height: 100px;
+		margin:5px;
+		padding: 5%;
+		}
+		
+.container-2 {
+		padding-left: 10%;
+		padding-right: 10%;
+		}
+		
+.show{
+		padding-top: 50px;	
+		padding-left:5%;	
+}
+
+hr{
+	height:5px;
+    color: #282b2d;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+
+
+.row{
+	margin-top:10px;
+	min-height: 10px;
+	justify-content: space-between;
+}
+
+p{color:  #2b2b2b;
+  			font-family: Helvetica ;
+ 			font-size: 15px;
+			justify-content: space-between;
+			}
+hh {color:  #282b2d;
+			font-family: Lucida Console;
+  			font-size: 50px;
+			 text-align: justify;
+			text-justify: inter-word;
+	}
+h {color:  #282b2d;
+			font-family: Lucida Console;
+  			font-size: 60px;
+	}
+h1 {color:  #282b2d;
+			font-family: Lucida Console;
+  			font-size: 35px;
+	}
+h2 {color: #212121;
+  			font-family: Baskerville ;
+ 			font-size: 20px;
+  			/*text-indent: 50px;*/
+	}
+h3 {color: #212121;
+  			font-family: calabri;
+ 			font-size: 15px;
+			}	
+ h4 {color: #212121;
+  			font-family: Baskerville ;
+ 			font-size: 15px;
+	}
+            
+h5 {color: #212121;
+  			font-family: Helvetica;
+ 			font-size: 17px;
+	}
+ul{color: #212121;
+  			font-family: Baskerville ;
+ 			font-size: 20px;
+			justify-content:center-left;
+}
+ a {color: #212121;
+  			font-family: calabri;
+ 			font-size: 15px;
+  			text-indent: 5px;
+			justify-content:start;
+	}
+img
+{
+ margin:25px; 
+}
